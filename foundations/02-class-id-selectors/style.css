@@ -1,0 +1,25 @@
+.class-1, 
+.class-cool {
+    color:black;
+    background-color:rgb(231, 158, 182);
+}
+
+.class-1 {
+    font-size: 12px;
+}
+
+.class-cool {
+    font-size: 16px;
+}
+
+#ID1 {
+    color: blue;
+    font-size: 20px;
+}
+
+#ID2 {
+    color: black;
+    background-color: chartreuse;
+    font-size: 16px;
+    font-weight: bold;
+}
